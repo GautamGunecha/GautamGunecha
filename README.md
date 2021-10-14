@@ -9,7 +9,7 @@ from 'Gautam Gunecha' import 'About.me';
 const Bio = () => {
   name     = 'Gautam Gunecha';
   title    = 'Software Engineer';
-  location = 'Varanasi, IND';
+  graduation = 'SRM Institute of Science and Technology';
 }
 
 const Skills = () => {
