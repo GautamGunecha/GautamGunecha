@@ -2,7 +2,7 @@
 
 
 ```js
-from 'thompsonemerson' import 'About.me';
+from 'Gautam Gunecha' import 'About.me';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Gautam Gunecha';
