@@ -22,4 +22,4 @@ const Experience = () => {
 }
 ```
 
-⭐️ From [Gautam Gunecha](https://github.com/GautamGunecha)
+💚 From [Gautam Gunecha](https://github.com/GautamGunecha)
