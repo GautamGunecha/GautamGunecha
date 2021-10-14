@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-GautamGunecha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamgunecha/)](https://www.linkedin.com/in/gunechagautam/) 
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamgunecha@gmail.com)](mailto:gautamgunecha@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gautamgunecha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamgunecha@gmail.com)](mailto:gautamgunecha@gmail.com)
 
 ```js
 from 'Gautam Gunecha' import 'About.me';
