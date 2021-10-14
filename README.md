@@ -6,7 +6,7 @@
 ```js
 from 'Gautam Gunecha' import 'About.me';
 
-class Bio extends SoftwareDeveloper {
+const Bio =() => {
   name     = 'Gautam Gunecha';
   title    = 'Software Engineer';
   location = 'Varanasi, IND';
