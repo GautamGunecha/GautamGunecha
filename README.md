@@ -6,18 +6,18 @@
 ```js
 from 'Gautam Gunecha' import 'About.me';
 
-const Bio =() => {
+const Bio = () => {
   name     = 'Gautam Gunecha';
   title    = 'Software Engineer';
   location = 'Varanasi, IND';
 }
 
-class Skills extends SoftwareDeveloper {
+const Skills = () => {
   languages  = ['JavaScript', 'Python', 'Java'];
   frameworks = ['React', 'React Native', 'Django'];
 }
 
-class experience exteds SoftwareDeveloper{
+const Experience = () => {
   careiot = ['Full Stack Develeoper', '4 Months' ];
 }
 ```
