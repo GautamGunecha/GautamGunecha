@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gautamgunecha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamgunecha@gmail.com)](mailto:gautamgunecha@gmail.com)
 
 ```js
-from 'Gautam Gunecha' import 'About.me';
+from 'Gautam Gunecha' import 'About';
 
 const Bio = () => {
   name     = 'Gautam Gunecha';
