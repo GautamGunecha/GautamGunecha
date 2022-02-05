@@ -13,8 +13,9 @@ const Bio = () => {
 }
 
 const Skills = () => {
-  languages  = ['JavaScript', 'Python', 'Java'];
+  languages  = ['JavaScript', 'Python'];
   frameworks = ['React', 'React Native', 'Django'];
+  backend = ['MongoDB, NodeJS, Express];
 }
 
 const Experience = () => {
