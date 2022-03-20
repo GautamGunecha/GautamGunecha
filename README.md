@@ -13,14 +13,14 @@ const Bio = () => {
 }
 
 const Skills = () => {
-  languages  = ['JavaScript', 'Python'];
+  languages  = ['JavaScript', 'Python', 'TypeScript'];
   frameworks = ['React', 'React Native', 'Django'];
-  backend = ['MongoDB, NodeJS, Express];
+  backend = ['MongoDB', 'NodeJS', 'Express'];
 }
 
 const Experience = () => {
   careiot = ['Full Stack Developer', 'Intern', '4 Months' ];
-  appAvengers = ['Full Stack Developer']
+  appAvengers = ['Full Stack Developer', 'Full Time', 'Present'];
 }
 ```
 
