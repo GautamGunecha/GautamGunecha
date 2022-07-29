@@ -26,6 +26,9 @@ const Experience = () => {
 ```
 
 ### 😂 Here is a random joke that'll make you laugh!
+```js
 When I see a door with push sign, I just pull first to avoid conflicts.
+```
+
 
 💚 From [Gautam Gunecha](https://github.com/GautamGunecha)
