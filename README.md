@@ -21,6 +21,7 @@ const Skills = () => {
 const Experience = () => {
   careiot = ['Full Stack Developer', 'Intern', '4 Months' ];
   appAvengers = ['Full Stack Developer', 'Full Time', '8 Months'];
+  freeLancer = ['Mern Stack Developer', 'Free Lance / Part Time', '6 Months']
 }
 ```
 
