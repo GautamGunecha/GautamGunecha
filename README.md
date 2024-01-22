@@ -1,33 +1,24 @@
+# Gautam Gunecha
+
+![Profile Picture](url_to_your_profile_picture)
+
 [![Linkedin Badge](https://img.shields.io/badge/-GautamGunecha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamgunecha/)](https://www.linkedin.com/in/gunechagautam/) 
 [![Gmail Badge](https://img.shields.io/badge/-gautamgunecha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamgunecha@gmail.com)](mailto:gautamgunecha@gmail.com)
 
+## About Me
+
+I am Gautam Gunecha, a passionate Software Engineer currently pursuing my degree at SRM Institute of Science and Technology.
+
+## Skills
+
+- **Languages:** JavaScript, TypeScript, Ruby
+- **Frontend:** React, NextJS, Tailwind CSS
+- **Backend:** MongoDB, NodeJS, Express, Rails
+- **Cloud:** Google Firebase, AWS
+
+## Random Joke
+
+😂 Here is a random joke that'll make you laugh!
+
 ```js
-import About from 'Gautam Gunecha';
-
-const Bio = () => {
-  name     = 'Gautam Gunecha';
-  title    = 'Software Engineer';
-  graduation = 'SRM Institute of Science and Technology';
-}
-
-const Skills = () => {
-  languages  = ['JavaScript', 'Python', 'TypeScript'];
-  frameworks = ['React', 'React Native', 'Django', 'NextJS'];
-  backend = ['MongoDB', 'NodeJS', 'Express', 'Firebase'];
-}
-
-const Experience = () => {
-  careiot = ['Full Stack Developer', 'Intern', '4 Months' ];
-  appAvengers = ['Full Stack Developer', 'Full Time', '8 Months'];
-  freeLancer = ['Mern Stack Developer', 'Free Lance / Part Time', '6 Months'];
-  monkTechLabs = ['Full Stack Developer', 'Full Time', Present];
-}
-```
-
-### 😂 Here is a random joke that'll make you laugh!
-```js
-When I see a door with push sign, I just pull first to avoid conflicts.
-```
-
-
-💚 From [Gautam Gunecha](https://github.com/GautamGunecha)
+When I see a door with a push sign, I just pull first to avoid conflicts.
