@@ -1,13 +1,11 @@
 # Gautam Gunecha
 
-[![Profile Picture](https://avatars.githubusercontent.com/u/82008149?v=4)](https://avatars.githubusercontent.com/u/82008149?v=4)
-
 [![Linkedin Badge](https://img.shields.io/badge/-GautamGunecha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamgunecha/)](https://www.linkedin.com/in/gunechagautam/) 
 [![Gmail Badge](https://img.shields.io/badge/-gautamgunecha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamgunecha@gmail.com)](mailto:gautamgunecha@gmail.com)
 
 ## About Me
 
-I am Gautam Gunecha, a passionate Software Engineer currently pursuing my degree at SRM Institute of Science and Technology.
+Greetings! I am Gautam Gunecha, a Full Stack Developer. I hold a Bachelor's degree in Information Technology from SRM, Chennai. I find joy in working on projects that enable me to acquire new skills, contributing to a richer overall product experience.
 
 ## Skills
 
