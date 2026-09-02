@@ -43,8 +43,8 @@ Always learning, building, and improving.
 
 ### ⚙️ **App Avengers** — *Software Engineer (Contract)*  
 📍 Ahmedabad, India (Remote) | 🗓 Dec 2021 – Mar 2022  
-- Improved app performance using **lazy-loading, prefetching, and code-splitting** with React Suspense.  
-- Implemented **probabilistic data structures** to prevent duplicate records, reducing DB queries by 25%.  
+- Successfully migrated a legacy jQuery/EJS monolith to ReactJs with code-splitting and lazy loading improving
+Lighthouse performance score from 50 to 92 and reducing page load time by 65%
 
 ### 🌍 **CareIoT Limited** — *Software Engineer Intern*  
 📍 Hong Kong (Remote) | 🗓 May 2021 – Aug 2021  
