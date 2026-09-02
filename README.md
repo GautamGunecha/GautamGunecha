@@ -32,15 +32,15 @@ Always learning, building, and improving.
 📍 Bangalore, India | 🗓 Oct 2023 – Present  
 - Engineered clickwrap e-signature service with multi-party signing, GPS/IP audit trails, and tamper-evident PDF
 certificates, eliminating vendor dependency, saving Rs 30L/year, & processing 60K+ lease agreements per year.
-• Engineered a real time rental matching pipeline with geo point proximity search and async celery workers,
+- Engineered a real time rental matching pipeline with geo point proximity search and async celery workers,
 automatically pairing tenant leads with nearby available inventory, eliminating 60% of manual ops efforts.
-• Developed a geospatial resolution microservice (Zinc) using gRPC, PostGIS, and Redis caching to map coordinates
+- Developed a geospatial resolution microservice (Zinc) using gRPC, PostGIS, and Redis caching to map coordinates
 to city/zone/locality hierarchies enabling automated lead assignment and property routing across 15 cities, eliminating
 manual locality tagging and reducing mis-routes by 70%.
-• Maximised transaction success rate and minimised gateway fees across 7 payment gateways, by building a dynamic 6
+- Maximised transaction success rate and minimised gateway fees across 7 payment gateways, by building a dynamic 6
 layer payment routing engine that utilized a rules engine pattern to route traffic based on real time success
 percentage, cheapest processing mode, percentage splits and user preferences.
-• Engineered an internal low-code API intergration platform, that empowered ops team to self serve third party data
+- Engineered an internal low-code API intergration platform, that empowered ops team to self serve third party data
 syncs, eliminated 40+ manual cron scripts and reduced integration deployment time from days to under 10 minutes.
 
 ### 💡 **MonkSpaces.ai** — *Software Engineer*  
