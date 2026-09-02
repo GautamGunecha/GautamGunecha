@@ -38,8 +38,13 @@ Always learning, building, and improving.
 
 ### 💡 **MonkSpaces.ai** — *Software Engineer*  
 📍 Bangalore, India | 🗓 Sep 2022 – Oct 2023  
-- Built a **GST-compliant invoicing system** with multiple payment gateways (Razorpay, Instamojo, Cashfree).  
-- Enhanced data consistency with **MongoDB sessions** for transactional operations.  
+- Implemented MongoDB transaction pipelines for critical financial operations, ensuring ACID compliance and
+eliminating data inconsistencies across multi-gateway payment reconciliation.
+- Built multi-tenant invoicing platform with GST compliance, automated tax calculations, and payment gateway
+reconciliation, processing 30K+ invoices monthly with zero compliance issues for real estate operators.
+- Developed multi property admin platform with role-based access control (RBAC), enabling portfolio managers to
+manage tenants, leases, invoices, and maintenance across 100+ properties from a single dashboard with property level
+data isolation.
 
 ### ⚙️ **App Avengers** — *Software Engineer (Contract)*  
 📍 Ahmedabad, India (Remote) | 🗓 Dec 2021 – Mar 2022  
